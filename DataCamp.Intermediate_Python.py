@@ -1,5 +1,6 @@
-# numpy and matplotlib imported, seed set
-# import numpy as np
+# This was the last exercise of the "Intermediate Python" course in DataCamp. Stay tuned for more =)
+
+# numpy and matplotlib imported, seed set -- import numpy as np
 # np.random.seed(123)
 
 # Simulate random walk 500 times
